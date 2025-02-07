@@ -44,7 +44,8 @@ PyYAML==6.0.2
 requests==2.32.3
 scikit-image==0.24.0
 scipy==1.14.1
-segment_anything @ git+https://github.com/facebookresearch/segment-anything.git@dca509fe793f601edb92606367a655c15ac00fdf
+git+https://github.com/facebookresearch/segment-anything.git
+git+https://github.com/vanvalenlab/cellSAM.git
 six==1.16.0
 sympy==1.13.3
 tifffile==2024.9.20
