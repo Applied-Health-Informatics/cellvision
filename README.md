@@ -1,6 +1,3 @@
-# cellvision
-CellVision
-
 ### Steps to get started
 The CellSAM model requires `Python >=3.10`, so create a virtual environment with `Python>=3.10`.
 
