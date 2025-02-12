@@ -1,8 +1,6 @@
 import os
 from pathlib import Path
-from watershed import Watershed
-from extractCell import extractCell
-from processProps import ProcessProps
+from cellVision import extractCell, ProcessProps, Watershed
 import argparse
 import pandas as pd
 import json

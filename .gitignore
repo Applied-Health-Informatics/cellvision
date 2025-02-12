@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+segmented_cells/
+/*.jpg
+watershed_markers_segmented_cells/
